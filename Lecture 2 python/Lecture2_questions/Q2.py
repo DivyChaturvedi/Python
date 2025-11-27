@@ -2,3 +2,5 @@
 
 str = "Hi iam $ uh $ hj $ kla"
 print("Occurence of $ is :",str.count("$"))
+
+print("Helo")
